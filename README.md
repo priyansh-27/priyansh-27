@@ -1,8 +1,10 @@
-<div align="center">
+<h1 align="center">
+  <span style="color:#1E88E5;">PRIYANSH KUSHWAHA</span>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:e3f2fd,100:bbdefb&text=Priyansh%20Kushwaha&fontSize=50&fontColor=111111&fontAlignY=55"/>
-
-</div>
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43766021-91bc-4606-9eb8-9161f1055bc9"
        width="150"
