@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="<img width="589" height="628" alt="p3 (2)" src="https://github.com/user-attachments/assets/c315d37d-c055-49e4-a472-19e1352c6f91" />
-" alt="Priyansh Kushwaha" width="200"/>
+  <img src="https://github.com/user-attachments/assets/43766021-91bc-4606-9eb8-9161f1055bc9" 
+   width="150"
+   />
 </p>
 
 
