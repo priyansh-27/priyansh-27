@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="<img width="589" height="628" alt="p3 (2)" src="https://github.com/user-attachments/assets/c315d37d-c055-49e4-a472-19e1352c6f91" />
+" alt="Priyansh Kushwaha" width="200"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Priyansh Kushwaha</h1>
 
 <h3 align="center">Java & Spring Boot Developer | Backend Development | Python & Django | DSA</h3>
