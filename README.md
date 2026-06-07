@@ -70,25 +70,6 @@ MySQL • Git • GitHub • Postman • VS Code
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-27&layout=compact&theme=default&hide_border=true" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyansh-27&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 📚 Digital Library Management System
-
-Library resource management platform with efficient search and management features.
-
-
-
----
 
 ## 📫 Contact
 
