@@ -58,7 +58,7 @@ Spring Boot • REST APIs • Django
 HTML • CSS • Bootstrap
 
 ### Database & Tools
-MySQL • Git • GitHub • Postman • VS Code
+• MySQL • PostgreSQL • Git • GitHub • Postman • VS Code • IntelliJ IDEA • Docker • Docker Hub
 
 ---
 
